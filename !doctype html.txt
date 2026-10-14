@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+	<h1>Hello, Hack Club!</h1>
+	<button id="go">Click me</button>
+	<script src="script.js"></script>
+</body>
+
+</html>
+
+<body>
+	<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cL7qcyVJzE9q1c_BQewybAm-EIUsDrMjwlxpik4Beg&s=10’/>
+	<h1>Shaurya</h1>
+	<p>I love badminton</p>
+	<p>LZJ is the goat!</p>
+</body>
